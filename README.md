@@ -6,4 +6,4 @@ Brainrot is a custom operating system and designed for businesses, Enterprises, 
 
 # Credit:
 
-Ahmadova Ramana (CEO at BrainrotOS Corporation
+Ahmadova Ramana (CEO at BrainrotOS Corporation)
